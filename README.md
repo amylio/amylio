@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amylio
 - 👀 I’m interested in global experiences that include travel and discovering all about local foods
  - 🌱 I’m currently learning about neural networks and deep learning models
-- 💞️ I’m looking to collaborate on becoming gainfully employed again
+- 💞️ I’m looking to collaborate on challenges to further develop my data analytics skills
 - 📫 How to reach me: amy.lio@yahoo.com
 
 <!---
